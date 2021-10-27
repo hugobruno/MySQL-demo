@@ -1,0 +1,1 @@
+INSERT INTO usuarios VALUES(NULL, "Frodo", "gollum@gmail.com", "ocupovizio", "Tierramedia Ecatepec");
